@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RajaWebsite/static/css/main.bf538fe7.css",
+    "main.js": "/RajaWebsite/static/js/main.37c2b517.js",
+    "static/media/HeroImage.png": "/RajaWebsite/static/media/HeroImage.88d3c81f875790a74d90.png",
+    "static/media/MarvalEnterprice.png": "/RajaWebsite/static/media/MarvalEnterprice.9e5af1a3790778116e06.png",
+    "static/media/whatsapp.png": "/RajaWebsite/static/media/whatsapp.97b90b6e3f8c70254204.png",
+    "static/media/phone.png": "/RajaWebsite/static/media/phone.555baddb7dc7222fcd8d.png",
+    "index.html": "/RajaWebsite/index.html",
+    "main.bf538fe7.css.map": "/RajaWebsite/static/css/main.bf538fe7.css.map",
+    "main.37c2b517.js.map": "/RajaWebsite/static/js/main.37c2b517.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.37c2b517.js"
+  ]
+}
