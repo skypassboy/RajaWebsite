@@ -7,7 +7,7 @@ export const Bio = {
     "We understand the importance of a pest-free environment for your home or business. With our comprehensive pest control services, you can rest assured that your property will be protected from unwanted invaders.",
   github: "https://github.com/skypassboy",
   resume:
-    "https://drive.google.com/file/d/1BJn2YaWkAa9xA46PMLsbJtcPD4Xxl8Dq/view?usp=sharing",
+    "https://drive.google.com/file/d/1r8WpYuSawbLXD01Zm6hr-fZmAL0SUZnb/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/Patil-Ritesh/",
   twitter: "https://twitter.com/patilritesh1740",
   insta: "https://www.instagram.com/skypass_boy/",
