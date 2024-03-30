@@ -644,7 +644,52 @@ export const projects = [
     //   },
     // ],
   },
+  {
+    id: 9,
+    title: "Bedbug Treatment",
 
+    image:
+      "https://cdn.branchcms.com/wyYRakyM0V-1650/images/pests/anderson-pest-control-pest-id-pigeon.jpg",
+    tags: [
+      // "Java",
+      // "Spring Boot Rest Api",
+      // ".Net Rest Api",
+      // "React JS",
+      // "MySql",
+      // "Redux",
+      // "BootStrap",
+      // "Postman"
+    ],
+    category: "Web App",
+    github: "https://github.com/skypassboy/CDAC_PROJECT",
+    webapp: "",
+    // member: [
+    //   {
+    //     name: "Ritesh Patil",
+    //     img: "https://i.postimg.cc/sgFdXG3z/comp.jpg",
+    //     // linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     // github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Atharv Patil",
+    //     img: "https://i.postimg.cc/X7q7F5My/1707973705413.jpg",
+    //     // linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     // github: "https://github.com/upasana0710",
+    //   },
+    //   {
+    //     name: "Ramaksha Kulkarni",
+    //     img: "https://i.postimg.cc/6pD3Bpm4/1678715213835.jpg",
+    //     // linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     // github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Nikhil Kadapure",
+    //     img: "https://i.postimg.cc/8zrpXVzp/1709749978481.jpg",
+    //     // linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     // github: "https://github.com/upasana0710",
+    //   },
+    // ],
+  },
 
   // {
   //   id: 2,
