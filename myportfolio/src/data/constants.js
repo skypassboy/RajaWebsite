@@ -322,7 +322,7 @@ export const projects = [
     title: "Cockroach Treatement",
 
     image:
-      "https://i.postimg.cc/Y0L37SbY/cockroach.png",
+      "https://nzpest-control.co.nz/wp-content/uploads/2023/01/Everything-You-Need-to-Know-About-Why-Cockroach-Pest-Control-is-Necessary-1080x675.png",
     tags: [
       // "Java",
       // "Spring Boot Rest Api",
@@ -368,7 +368,7 @@ export const projects = [
     title: "Rodent Treatment",
 
     image:
-      "https://i.postimg.cc/6Q6FXdRZ/rodent.jpg",
+      "https://www.pepcopp.co.in/images/pest-control/pest-innerpage/rodent-control.jpg",
     tags: [
       // "Java",
       // "Spring Boot Rest Api",
@@ -415,7 +415,7 @@ export const projects = [
     title: "Spider treatment",
 
     image:
-      "https://i.postimg.cc/mgB5YQmn/spider.webp",
+      "https://i0.wp.com/hunterpest.com/wp-content/uploads/2019/09/SpiderControl.jpeg?fit=637%2C425&ssl=1",
     tags: [
       // "Java",
       // "Spring Boot Rest Api",
@@ -462,7 +462,7 @@ export const projects = [
     title: "Mosquito Treatment",
 
     image:
-      "https://i.postimg.cc/TPS04mcf/mosquito.jpg",
+      "https://fastactionpestcontrol.com/wp-content/uploads/2023/10/Mosquito-Banner.jpg",
     tags: [
       // "Java",
       // "Spring Boot Rest Api",
@@ -509,7 +509,7 @@ export const projects = [
     title: "Fly Treatment",
 
     image:
-      "https://i.postimg.cc/Mp3mnRNV/fly.jpg",
+      "https://cdn.pixabay.com/photo/2020/09/13/15/24/fly-5568565_640.jpg",
     tags: [
       // "Java",
       // "Spring Boot Rest Api",
@@ -556,7 +556,7 @@ export const projects = [
     title: "Termite Treatment",
 
     image:
-      "https://i.postimg.cc/FH60rvkx/termite.jpg",
+      "https://www.pccsindia.com/wp-content/uploads/2021/11/termites.jpg",
     tags: [
       // "Java",
       // "Spring Boot Rest Api",
@@ -603,7 +603,7 @@ export const projects = [
     title: "Bedbug Treatment",
 
     image:
-      "https://i.postimg.cc/ZnJd7KXJ/bedbug.jpg",
+      "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/P55ADETPOFJMBBPMGDXUCZS7YA.jpg",
     tags: [
       // "Java",
       // "Spring Boot Rest Api",
@@ -646,7 +646,7 @@ export const projects = [
   },
   {
     id: 9,
-    title: "Bedbug Treatment",
+    title: "Pigeon Treatment",
 
     image:
       "https://cdn.branchcms.com/wyYRakyM0V-1650/images/pests/anderson-pest-control-pest-id-pigeon.jpg",
